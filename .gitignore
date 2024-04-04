@@ -1,0 +1,10 @@
+.idea
+target
+*.iml
+*_log.*
+quarkusnologs.txt
+
+# Eclipse
+.project
+.classpath
+.settings/
